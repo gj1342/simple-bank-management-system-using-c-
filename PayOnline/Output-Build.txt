@@ -1,0 +1,12 @@
+Build started...
+1>------ Build started: Project: PayOnline(Re-edit), Configuration: Debug x64 ------
+1>PayOnline(Re-edit).cpp
+1>C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(30,13): warning C4566: character represented by universal-character-name '\u2800' cannot be represented in the current code page (1252)
+1>C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(37,13): warning C4129: '_': unrecognized character escape sequence
+1>C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(38,13): warning C4129: '_': unrecognized character escape sequence
+1>C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(60,13): warning C4566: character represented by universal-character-name '\u2800' cannot be represented in the current code page (1252)
+1>C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(342,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(860,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+1>PayOnline(Re-edit).vcxproj -> C:\Users\ACER\Documents\PERSONAL REQUIREMENTS\SCHOOL WORKS\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\x64\Debug\PayOnline(Re-edit).exe
+1>Done building project "PayOnline(Re-edit).vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

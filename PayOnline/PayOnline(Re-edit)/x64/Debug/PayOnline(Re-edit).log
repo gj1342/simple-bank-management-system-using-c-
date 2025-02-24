@@ -1,0 +1,8 @@
+﻿  PayOnline(Re-edit).cpp
+D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(30,13): warning C4566: character represented by universal-character-name '\u2800' cannot be represented in the current code page (1252)
+D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(37,13): warning C4129: '_': unrecognized character escape sequence
+D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(38,13): warning C4129: '_': unrecognized character escape sequence
+D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(60,13): warning C4566: character represented by universal-character-name '\u2800' cannot be represented in the current code page (1252)
+D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(342,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\PayOnline(Re-edit)\PayOnline(Re-edit).cpp(860,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PayOnline(Re-edit).vcxproj -> D:\SCHOOL WORKS\1ST YEAR\2ND SEMESTER\COMPUTER PROGRAMMING 2\PROJECT\PAYONLINE\RE-EDIT\PayOnline(Re-edit)\x64\Debug\PayOnline(Re-edit).exe
